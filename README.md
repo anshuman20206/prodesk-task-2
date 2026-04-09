@@ -2,7 +2,7 @@
 
 Overview
 - Static site exported under `prodesk.in/` (multiple HTML pages).
-- Node.js backend in `backend/` (Express, multer, Mongoose).
+- Node.js backend in `backend/` (Express, multer, Mongoose) .
 
 Quickstart (local)
 1. Backend
